@@ -1,1 +1,21 @@
+x=float(input())
+print (x-int(x))
 
+import math
+z = float(input(""))
+y = math.floor(z)
+l = z - y
+b = round(l,10)
+print(b)
+
+
+a=float(input())
+b=int(a)
+
+print(a-b)
+
+
+import math
+a = float(input())
+x=a%1
+print(x)
